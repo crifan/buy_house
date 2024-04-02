@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter    xml:id="after_buy_house"
+            xmlns="http://docbook.org/ns/docbook"
+            xmlns:xl="http://www.w3.org/1999/xlink"
+            xmlns:xi="http://www.w3.org/2001/XInclude"
+            xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+            xmlns:ns4="http://www.w3.org/1999/xhtml"
+            xmlns:ns3="http://www.w3.org/2000/svg"
+            xmlns:ns="http://docbook.org/ns/docbook">
+<title>买房之后要做的事情</title>
+
+<para>此处介绍，买了房子之后，要做得事情，要注意的事项。</para>
+<para></para>
+<para></para>
+
+<sect1 xml:id="todo_after_buy_house"><title>买房之后要要做的事情</title>
+
+    <sect2 xml:id="real_deliver_time"><title>交房时间</title>
+        <para>如果是购买的期房，那么还要涉及到交房。</para>
+        <para>就需要搞清楚，具体的交房时间：</para>
+        <para><link xl:href="http://www.crifan.com/haide_park_stage_two_delivery_time/">【详解】关于海德公园的二期交房日期：到底是2013年12月还是2014年2月</link></para>
+    </sect2>
+
+    <sect2 xml:id="how_design_house"><title>如何适当改造房子</title>
+        <para>等房子拿到手后，要涉及装修，要考虑，如何规划空间，充分利用空间，适当改造：</para>
+        <para><link xl:href="http://www.crifan.com/summary_hyde_park_90_square_meter_house_enclouse_balcony_and_transform_main_room/">【整理】关于建屋海德公园的88、90平米户型的封阳台，如何改造主卧等事情</link></para>
+    </sect2>
+
+</sect1>
+
+<para></para>
+<para></para>
+
+</chapter>

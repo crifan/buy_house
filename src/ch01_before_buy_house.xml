@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter    xml:id="before_buy_house"
+            xmlns="http://docbook.org/ns/docbook"
+            xmlns:xl="http://www.w3.org/1999/xlink"
+            xmlns:xi="http://www.w3.org/2001/XInclude"
+            xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+            xmlns:ns4="http://www.w3.org/1999/xhtml"
+            xmlns:ns3="http://www.w3.org/2000/svg"
+            xmlns:ns="http://docbook.org/ns/docbook">
+<title>买房之前要了解的概念和要考虑的因素</title>
+
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+
+<sect1 xml:id="buy_house_basic_concerpt"><title>购房之前需要了解的基本概念</title>
+    <sect2 xml:id="several_price"><title>几种价格：备案价，均价，实际成交价</title>
+        <para>有很多，和价格相关的概念，要搞清楚：</para>
+        <para><link xl:href="http://www.crifan.com/intro_haide_park_house_price_record_price_average_price_real_price_bargain/">【详解】关于海德公园的房价：备案价，均价，实际成交价格，砍价</link></para>
+        <para></para>
+    </sect2>
+
+    <sect2 xml:id="area_types"><title>各种面积和得房率</title>
+        <para>关于最基本的概念中，就是各种和面积相关的名词，以及相应计算出来的得房率了；</para>
+        <para><link xl:href="http://www.crifan.com/take_hypde_park_for_example_to_explain_house_total_area_real_area_effective_area_rate/">【整理】以海德公园为例解释什么是总建筑面积，套内建筑面积，分摊建筑面积，赠送面积，得房率，实际得房率</link></para>
+        <para></para>
+    </sect2>
+
+    <sect2 xml:id="down_payment"><title>关于首付比例</title>
+        <para>实际上，国家之前早就规定，住宅比例要不低于30%，只是现在多数开发商，都没遵守罢了；</para>
+        <para><link xl:href="http://www.crifan.com/new_deal_property_shall_not_be_less_than_30_down_payment/">【楼市新政】首付比例不得低于30%</link></para>
+        <para></para>
+        <para>关于首付比例的要求，每个银行，不同时期都不一样。</para>
+        <para>这个是之前的，供参考：</para>
+        <para><link xl:href="http://www.crifan.com/suzhou_major_banks_and_mortgage_interest_rates_mortgage_down_payment_ratio/">苏州各大银行 房贷首付比例 及 房贷利率</link></para>
+    </sect2>
+    
+    <sect2 xml:id="loan_types"><title>贷款类型，利率，月供</title>
+        <para>买房之前，对于如何很多各种贷款方式，需要做个足够的了解：</para>
+        <para><link xl:href="http://www.crifan.com/take_hyde_park_as_example_to_explain_commercial_loan_and_loan_rate/">【详解】以建屋海德公园为例，解释购房的公积金贷款，商业贷款，组合贷款，利率，月供</link></para>
+        <para></para>
+        <para>另外，附上，关于苏州的，组合贷款方面的政策：</para>
+        <para><link xl:href="http://www.crifan.com/summary_about_sip_composite_loan/">【整理】关于苏州工业园区的组合贷款</link></para>
+    </sect2>
+    
+    <sect2 xml:id="jan_gray_layer"><title>扬灰层</title>
+        <para>关于扬灰层的概念，需要搞清楚：</para>
+        <para><link xl:href="http://www.crifan.com/about_buy_house_consider_factor_fly_ash_layer/">【整理】关于购房考虑因素之一的扬灰层：基本就是忽悠出来的词</link></para>
+        <para></para>
+    </sect2>
+
+    <sect2 xml:id="buy_house_tax"><title>购房有哪些税要缴</title>
+        <para>买房之前，搞清楚，需要缴哪些税，主要是算一下，额外要交多少钱：</para>
+        <para><link xl:href="http://www.crifan.com/suzhou_buy_house_deep_tax/">【整理】苏州个人购买住房所要缴纳的契税</link></para>
+        <para></para>
+        <para>另外这个也可以参考一下：</para>
+        <para><link xl:href="http://www.crifan.com/a_second-hand_housing_transactions_which_take_money/">买卖一套二手房要花哪些钱</link></para>
+    </sect2>
+    
+    <sect2 xml:id="check_house_info"><title>如何查房子的详细信息</title>
+        <para>买房之前，要去查清楚，关于房子的，种种信息，包括但不限于：备案信息，比如开发商是谁等等，以及你要买的房子的各种细节信息，比如分摊建筑面积，套内建筑面积，总建筑面积，得房率，房屋层高，单价，总价等等</para>
+        <para><link xl:href="http://www.crifan.com/how_to_check_real_estate_info_in_suzhou_sip/">教你如何查看（苏州工业园区内）某个楼盘内某栋楼内某个单元内的某套房的详细信息（分摊建筑面积，套内建筑面积，总建筑面积，得房率，房屋层高，单价，总价等等）</link></para>
+        <para></para>
+    </sect2>
+</sect1>
+
+<sect1 xml:id="buy_house_factor"><title>购房时要考虑的因素</title>
+    <para>买房需要考虑的因素很多，有些是相对主要考虑的，有些是相对次要的。</para>
+
+    <sect2 xml:id="major_factor"><title>购房主要因素</title>
+        <sect3 xml:id="limit_policy"><title>限购政策</title>
+            <para>买房之前，第一个，不是价格，而是要知道，自己的情况，是否是属于被限购的，否则，有钱（没有特殊关系的话）也没法买的。</para>
+            <para>此处以苏州为例，总结苏州的限购政策：</para>
+            <para><link xl:href="http://www.crifan.com/suzhou_policy_of_limit_buy_house/">【整理】苏州的限购政策 v2013-05-02</link></para>
+            <para></para>
+        </sect3>
+
+        <sect3 xml:id="factor_property_developer"><title>房地产开发商</title>
+            <para>买房之前，最好对于房子的开发商，有所了解。</para>
+            <para>此处以苏州的海德公园的开发商，建屋为例：</para>
+            <para><link xl:href="http://www.crifan.com/intro_suzhou_hyde_property_developer_genway_company/">【详解】海德公园的开发商：建屋（发展集团有限公司）</link></para>
+            <para></para>
+        </sect3>
+
+        <sect3 xml:id="factor_which_floor"><title>楼层</title>
+            <para>关于楼层的：</para>
+            <para><link xl:href="http://www.crifan.com/when_buy_house_should_take_account_height_level/">【详解】买房时所要考虑的因素：楼层（视野，为何次高层最贵，为何顶层便宜）</link></para>
+            <para></para>
+        </sect3>
+        
+        <sect3 xml:id="nearby_environment"><title>附近环境</title>
+            <para>要搞清楚，小区周围的各种环境：</para>
+            <para><link xl:href="http://www.crifan.com/summary_suzhou_hyde_park_surrounded_environment/">【整理】苏州园区的高教区内的海德公园周围的环境：东边的工厂，高压线，变电站，加油站，地铁，菜场，学区</link></para>
+            <para></para>
+        </sect3>
+    </sect2>
+
+    <sect2 xml:id="minor_factor"><title>购房次要因素</title>
+        <sect3 xml:id="factor_elevator"><title>电梯品牌</title>
+            <para>买房之前，对于你所要买的房子所在小区，使用何种电梯，也可以关注一下。</para>
+            <para>下面是常见的电梯品牌的介绍：</para>
+            <para><link xl:href="http://www.crifan.com/resident_lift_brand_schindler_thyssen_hitachi/">【整理】以建屋海德公园为例，总结住宅电梯品牌：蒂森(Thyssen)，迅达(Schindler）等等</link></para>
+            <para></para>
+        </sect3>
+
+        <sect3 xml:id="parking_space"><title>车位</title>
+            <para>买了房子，关于车位的事情，也需要搞清楚：</para>
+            <para><link xl:href="http://www.crifan.com/haide_park_parking_place_price/">【详解】关于海德公园的车位：老带新优惠价，抽奖优惠价，产权</link></para>
+            <para></para>
+        </sect3>
+    </sect2>
+
+</sect1>
+
+<sect1 xml:id="buy_house_related_knowledge"><title>和购房相关的一些知识</title>
+    <para>一些值得了解的和购房相关的一些知识：</para>
+    <para>和房子，小区相关的一些的概念，比如：泛光照明：</para>
+    <para><link xl:href="http://www.crifan.com/what_is_flood_lighting_landscape_lighting_corridor_light/">【整理】以建屋海德公园为例，解释什么是泛光照明，景观照明，楼道照明</link></para>
+    <para></para>
+    <para></para>
+</sect1>
+
+<sect1 xml:id="buy_house_related_policy"><title>和购房相关的一些国家的政策</title>
+    <para>一些值得了解的购房的政策：</para>
+    <para></para>
+    <para>整理的之前某段时间国家的房地产调控政策措施，供参考：</para>
+    <para><link xl:href="http://www.crifan.com/20100908_recent_real_estate_market_strategy/">2010.09.08 近期房地产市场调控策略</link></para>
+    <para></para>
+    <para>关于精装房的：</para>
+    <para><link xl:href="http://www.crifan.com/jiangsu_province_promulgated_the_quothousing_renovation_finished_technical_standardsquot_after_the_house_more_and_more_room_for_the_hardcover_existing_home/">江苏出台《成品住房装修技术标准》，以后房子越来越多为精装房，成品房</link></para>
+    <para></para>
+    <para></para>
+</sect1>
+
+<sect1 xml:id="facilitate_buy_house"><title>可以使买房时更方便的一些措施</title>
+    <sect2 xml:id="choose_funds_place"><title>选择合适的公积金中心</title>
+        <para>关于，买房之前，如果是在苏州园区的话，其实不止一个公积金中心的。</para>
+        <para>比如，独墅湖就有一个：</para>
+        <para><link xl:href="http://www.crifan.com/detail_intro_suzhou_sip_resident_fund_dushu_lake_department/">【详解】苏州园区公积金中心独墅湖办事处：地理位置，咨询电话，工作时间</link></para>
+        <para>这样就可以避开湖西的那个，人太多的公积金中心了。</para>
+    </sect2>
+</sect1>
+
+<sect1 xml:id="some_refer_articles"><title>买房前值得看看的一些资料</title>
+    <para>一个律师，给了些忠告：</para>
+    <para><link xl:href="http://www.crifan.com/lawer_give_seven_counsel_to_house_buyer/">【转】[一种声音]律师写给购房人的七个忠告</link></para>
+    <para></para>
+    <para>要清楚现实，国家的政策，不是让房价下降：</para>
+    <para><link xl:href="http://www.crifan.com/real_estate_control_policy_four_time_ten_year_purpose_is_not_decline/">【转】房产十年四轮调控：房价下跌不是施政目的</link></para>
+    <para></para>
+    <para>了解一下，国外，在房子调控方面的手段：</para>
+    <para><link xl:href="http://www.crifan.com/how_the_united_states_limit_the_rich_real_estate/">美国如何限制富人炒房</link></para>
+    <para><link xl:href="http://www.crifan.com/people_are_concerned_about_the_look_of_the_house_chinese_americans_talk_about_real_life_and_the_price_the_united_states/">关注房子的人都该看看：在美华人谈真实的美国生活和房价</link></para>
+    <para></para>
+    <para>郎咸平的一些观点：</para>
+    <para><link xl:href="http://www.crifan.com/recommended_lang_high_in_nonsensical_chinese_stock_market_to_be_a_big_problem/">【推荐】郎咸平：高层在睁眼说瞎话 中国股市出了大问题</link></para>
+    <para></para>
+    <para>解释房价为何会高，且不会降：</para>
+    <para><link xl:href="http://www.crifan.com/recommended_quotpeakquot_on_china_another_explanation_for_high_prices/">【推荐】“巅峰”上的中国：对高房价的另一个解释</link></para>
+    <para></para>
+    <para>这个是道出了实情：</para>
+    <para><link xl:href="http://www.crifan.com/government_out_of_real_estate_quotinterests_of_the_chainquot_in_order_to_lower_prices/">政府退出房地产“利益链” 才能降房价</link></para>
+    <para></para>
+    <para>而背后的原因其实是招拍挂：</para>
+    <para><link xl:href="http://www.crifan.com/guo_youxiong_the_king_is_a_land_auction_and_the_financial_system_and_the_inevitable_result_of/">郭佑雄：地王是土地财政及招拍挂制度的必然结果</link></para>
+    <para></para>
+    <para></para>
+    <para></para>
+    <para>关于之前的四万亿的：</para>
+    <para><link xl:href="http://www.crifan.com/one_of_the_government39s_missteps/">政府的失策之一</link></para>
+    <para></para>
+    <para>了解一下，正常的房价该是啥样的：</para>
+    <para><link xl:href="http://www.crifan.com/turn_what_is_a_reasonable_price/">【转】房价怎样才是合理的</link></para>
+    <para></para>
+</sect1>
+
+<sect1 xml:id="overview_whole_price"><title>房价一览</title>
+    <para>关于一个地区的房价的总体概览，有些网址给我们总结了这方面的资料。</para>
+    <para>比如：</para>
+    <para><link xl:href="http://suzhou.house.qq.com/newhouse/fjdrb.htm">房价当日报_苏州房地产门户_苏州站_腾讯房产_腾讯网</link></para>
+    <para>可以看到当前的最新的房价。</para>
+    <para>便于买房之前，对于整个地区的房价有个总体的认识。</para>
+    <para></para>
+</sect1>
+
+<sect1 xml:id="house_price_composition"><title>房价成本组成</title>
+    <para>之前看到很多关于房价分析的内容，有些分析的很不错，值得参考：</para>
+    <para>TODO：整理帖子：<link xl:href="http://www.crifan.com/house_price_so_high_reason_analysis_ratio_of_each_part/">【整理】房价贵的秘密：分析房价成本组成</link></para>
+    <para>看了分析后，我们就可以了解房价的总体成本了。</para>
+    <para></para>
+</sect1>
+
+</chapter>

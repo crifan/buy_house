@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<!DOCTYPE book
+[
+
+<!ENTITY cur_book_name      "buy_house" >
+<!ENTITY publish_date       "2015-05-22" >
+<!ENTITY release_version    "1.1.0" >
+
+<!ENTITY copyrith_year "2015" >
+<!ENTITY entity_common_multi_format     SYSTEM  "../../entity_common_multi_format.xml">
+<!ENTITY entity_common_publish_info     SYSTEM  "../../entity_common_publish_info.xml">
+]>
+
+<book version="5.0"
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    
+    xml:lang="zh_CN">
+
+<info>
+    <title>买房详细教程</title>
+    <subtitle></subtitle>
+    <keywordset>
+        <keyword>买房</keyword>
+        <keyword>实际流程</keyword>
+        <keyword>考虑因素</keyword>
+        <keyword>注意事项</keyword>
+    </keywordset>
+
+    <abstract>
+        <para>本文主要介绍买房之前需要了解的很多概念和要考虑哪些因素，以及通过一个真实的购买首套房的实际流程来说明如何买房，再总结了买房之后还要做哪些事情</para>
+        &entity_common_multi_format;
+    </abstract>
+
+    <revhistory>
+        <revision>
+            <revnumber>&release_version;</revnumber>
+            <date>&publish_date;</date>
+            <revremark>
+                <orderedlist>
+                    <listitem>把之前教程的地址整理过来</listitem>
+                    <listitem>添加房价一览</listitem>
+                </orderedlist>
+            </revremark>
+            <authorinitials>crl</authorinitials>
+        </revision>
+    </revhistory>
+
+    &entity_common_publish_info;
+</info>
+
+<xi:include href="preface.xml" />
+<xi:include href="ch01_before_buy_house.xml" />
+<xi:include href="ch02_buy_house_steps.xml" />
+<xi:include href="ch03_after_buy_house.xml" />
+<xi:include href="reference.xml" />
+
+</book>

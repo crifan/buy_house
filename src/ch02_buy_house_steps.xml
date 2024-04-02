@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter    xml:id="buy_house_steps"
+            xmlns="http://docbook.org/ns/docbook"
+            xmlns:xl="http://www.w3.org/1999/xlink"
+            xmlns:xi="http://www.w3.org/2001/XInclude"
+            xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+            xmlns:ns4="http://www.w3.org/1999/xhtml"
+            xmlns:ns3="http://www.w3.org/2000/svg"
+            xmlns:ns="http://docbook.org/ns/docbook">
+<title>买房详细操作流程</title>
+
+<para>此处，以一个实际的购买首套房的例子，来说明，买房过程中，都是如何操作的，需要涉及到哪些资料等等。</para>
+
+<tip xml:id="tip.old_post_buy_first_house_steps"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/suzhou_sip_process_of_buy_first_house/">【详解】苏州工业园区购买首套住房的流程</link></para>
+</tip>
+
+<sect1 xml:id="buy_first_house_steps"><title>购买首套房的实际流程</title>
+
+    <sect2 xml:id="step1_pay_earnest_money"><title>步骤1：付定金</title>
+        <para><link xl:href="http://www.crifan.com/buy_a_house_process_step_1_pay_front_money/">【买房流程详解】步骤1：交定金</link></para>
+    </sect2>
+    
+    <sect2 xml:id="step2_sign_contract"><title>步骤2：签订购房合同+交首付款的现金部分</title>
+        <para><link xl:href="http://www.crifan.com/buy_a_house_process_step_2_pay_the_fisrt_part_money/">【买房流程详解】步骤2：签订购房合同+交首付款的现金部分</link></para>
+    </sect2>
+
+    <sect2 xml:id="step3_extract_funds_once"><title>步骤3：公积金一次性提取</title>
+        <para><link xl:href="http://www.crifan.com/buy_a_house_process_step_3_once_extract_all_reserved_fund/">【买房流程详解】步骤3：一次性提取公积金</link></para>
+    </sect2>
+
+    <sect2 xml:id="step4_pay_funds_part"><title>步骤4：交首付款的公积金部分</title>
+        <para><link xl:href="http://www.crifan.com/buy_a_house_process_step_4_pay_remaing_reserved_fund_part_of_first_payment/">【买房流程详解】步骤4：交首付款的公积金部分</link></para>
+    </sect2>
+
+    <sect2 xml:id="step5_apply_loan"><title>步骤5：申请贷款</title>
+        <para><link xl:href="http://www.crifan.com/buy_a_house_process_step_5_apply_bank_loan/">【买房流程详解】步骤5：申请办理银行贷款</link></para>
+    </sect2>
+    
+    <sect2 xml:id="step6_pay_by_month"><title>步骤6：按月摊还</title>
+        <para><link xl:href="http://www.crifan.com/buy_a_house_process_step_6_payment_per_month/">【买房流程详解】步骤6：到公积金中心和银行去办理每月还贷</link></para>
+    </sect2>
+
+</sect1>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+
+</chapter>
